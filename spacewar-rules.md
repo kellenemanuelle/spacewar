@@ -116,3 +116,13 @@
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
 121. Se estiver muito cansado, durma um pouco.
 122. Caso fique com fome, coma um kitkat.
+121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
+122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
+123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
+124. Se você não ligar o propulsor espacial,o Império lhe fará prisioneiro.
+125. Ao avistar os marcianos, use a arma supersônica.
+126. Caso tenha duvida de que inimigo atacar, leia o TODO.txt.
+127. Quando você está com fome, automaticamente aparecerá um drive-thru.
+128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
+129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
+130. Se for lua cheia, beba um bom vinho.
