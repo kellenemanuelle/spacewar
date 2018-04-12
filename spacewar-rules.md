@@ -101,7 +101,6 @@
 99. Caso o capitão da nave morra, vote no Yopresidente.
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
 109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
-110. Se a internet cair, leia um livro.
 110. Se a nave não decolcar, vá a pé
 111. Caso o Capitão América aparecer, o jogador ganhará pontos. 
 112. Se comecar a chuver meteoros, abra o guarda chuva.
@@ -109,13 +108,10 @@
 114. Caso o Doutor Estranho apareça, você pode pular uma fase do jogo.
 115. Se o homem aranha aparecer, bata continencia.
 116. Caso freeza apareca, jogue uma genki dama nele.
-117. A cada mensagem do whatsapp, cante uma música.
 117. Caso voce não tenha feito pontos na rodada anterior, perca a habilidade de entrar no hiperespaco por uma rodada.
 118. Só poderá ser feita a ligação para o Scooby-Doo, ao atingir o nível 21.
 119. Se estiver a bordo do teco-teco 3000, você está imune a pedágios espaciais.
 120. Caso você entre no labirinto de Dédalo, você ficará preso em 10 rodadas.
-121. Se estiver muito cansado, durma um pouco.
-122. Caso fique com fome, coma um kitkat.
 121. caso sua nave for desafiada a um mak'gora o melhor guerreiro de cada nave deve descer no planeta mais proximo e lutar de maos vazias.
 122. Desafie as naves da órbita Kameha, caso você ganhe uma batalha, é possível comprar mais um personagem.
 123. Caso você encontre o batman espacial, ele lhe dará toda sua riqueza.
@@ -125,4 +121,6 @@
 127. Quando você está com fome, automaticamente aparecerá um drive-thru.
 128. No estágio das sombras o jogador poderá evocar a Metaltex e  a Bladeliner para enfrentar o terrível Goldar.
 129. No caso de algum combatente ferido, va para a upa e fique 239 horas esperando.
-130. Se for lua cheia, beba um bom vinho.
+130. Se o inimigo estiver fugindo utilize o Colisor de Hádrons.
+131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
+132. Caso a poli alague, vista-se com botas e capa de chuva.
